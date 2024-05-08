@@ -12,7 +12,7 @@ function mostraMulher(request, response) {
  })
 }
 
-function mostraPorta() {
+function mostraPorta() {123
     console.log("Servidor criado e rodando na porta ", porta)
 }
 
